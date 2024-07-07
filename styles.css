@@ -33,6 +33,7 @@ h1 {
     background-color: goldenrod;
     left: 149px;
     bottom:149px ;
+    transform-origin: 0 100%;
    
 }
 
@@ -43,6 +44,7 @@ h1 {
     position: absolute;
     left: 149px;
     bottom:149px ;
+    transform-origin: 0 100%;
 }
 
 #hours-hand {
@@ -52,6 +54,7 @@ h1 {
     position: absolute;
     left: 148px;
     bottom:148px ;
+    transform-origin: 0 100%;
 }
 
 #center {
